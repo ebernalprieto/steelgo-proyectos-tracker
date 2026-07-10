@@ -1,0 +1,68 @@
+# Steelgo — Tracker de Proyectos Industriales
+
+Seguimiento de proyectos industriales activos (ingeniería, licitación/bidding o construcción) en México y Estados Unidos que puedan requerir pipe spools pre-fabricados y/o recubrimientos industriales.
+
+## Petroquímica
+
+| Proyecto | Ubicación | Cliente/Dueño | EPC/Contratista | Fase | Fuente | Última actualización |
+|---|---|---|---|---|---|---|
+| America First Refining | Brownsville, Texas, EE.UU. | America First Refining | Fluor Corporation | Ingeniería/FEED | [Fluor newsroom](https://newsroom.fluor.com/news-releases/news-details/2026/Fluor-Awarded-Contract-to-Engineer-and-Design-the-America-First-Refining-Facility-in-Brownsville-Texas/default.aspx) | 2026-07-10 |
+| ExxonMobil Coastal Plain (cracker + PE) | Calhoun County, Texas, EE.UU. | ExxonMobil | No especificado | Ingeniería/FEED | [AllStream Insiders](https://allstreaminsiders.com/us-exxonmobil-may-build-cracker-pe-plant-in-texas-with-an-8-6-billion-investment/) | 2026-07-10 |
+| Golden Triangle Polymers | Orange, Texas, EE.UU. | Chevron Phillips Chemical (CPChem) / QatarEnergy | ZDJV (Zachry/DL USA); JKJV (JGC America/Kiewit) | Construcción (comisionamiento) | [BIC Magazine](https://www.bicmagazine.com/departments/operations/cpchem-golden-triangle-polymers-facility-startup-phase/) | 2026-07-10 |
+| CF Industries Blue Point (amoniaco bajo carbono) | Ascension Parish, Luisiana, EE.UU. | CF Industries / JERA / Mitsui & Co. | Technip Energies | Construcción | [Construction Front](https://constructionfront.com/2025-04-13-technip-energies-to-deliver-blue-point-worlds-largest-low-carbon-ammonia-facility-in-louisiana/) | 2026-07-10 |
+| Plantas de gas — Cuenca Pérmica | West Texas, EE.UU. | Enterprise Products / Targa Resources / Phillips 66 | Audubon Companies (parcial); otros no especificados | Construcción | [East Daley](https://eastdaley.com/media-and-news/the-race-is-on-to-build-permian-processing) | 2026-07-10 |
+| Refinería Dos Bocas (Olmeca) | Paraíso, Tabasco, México | Pemex | Techint (parcial) | Construcción/ajustes | [Techint](https://www.techint.com/en/our-projects/dos-bocas-refinery) | 2026-07-10 |
+| Refinería de Tula (modernización) | Tula, Hidalgo, México | Pemex | No especificado | Construcción/modernización | [OGJ](https://www.ogj.com/refining-processing/refining/optimization/article/17279334/pemex-to-proceed-with-dos-bocas-refinery-project) | 2026-07-10 |
+| Rehab. Etano-Etileno (Cangrejera/Morelos) | Coatzacoalcos, Veracruz, México | Pemex Transformación Industrial | POLIOLES S.A. de C.V. | Ingeniería/rehabilitación | [Forbes México](https://forbes.com.mx/pemex-invertira-5300-millones-de-dolares-para-reactivar-la-industria-petroquimica/) | 2026-07-10 |
+| Rehab. Planta de Aromáticos (Cangrejera) | Coatzacoalcos, Veracruz, México | Pemex Transformación Industrial | ICA Fluor Daniel S. de R.L. | Ingeniería/rehabilitación | [Forbes México](https://forbes.com.mx/pemex-invertira-5300-millones-de-dolares-para-reactivar-la-industria-petroquimica/) | 2026-07-10 |
+| Proyecto Escolín (amoniaco/urea) | Poza Rica, Veracruz, México | Pemex Transformación Industrial | Mota-Engil México (con Duro Felguera) | Ingeniería/desarrollo | [Mexico Business News](https://mexicobusiness.news/oilandgas/news/pemex-advances-escolin-fertilizer-plant-semarnat-filing) | 2026-07-10 |
+| Rehab. Fertinal-ProAgro (urea y fosfatos) | Lázaro Cárdenas, Michoacán, México | Pemex | No especificado | Ingeniería/rehabilitación | [Tribuna](https://tribuna.com.mx/mexico/2026/06/05/sheinbaum-anuncia-inversion-de-93-mil-mdp-para-reactivar-la-industria-petroquimica-y-de-fertilizantes-en-veracruz_560837/) | 2026-07-10 |
+| Pacífico Mexinol (metanol ultra bajo carbono) | Topolobampo, Sinaloa, México | Transition Industries | Siemens Energy / Techint E&C (FEED electrolizador) | Construcción (iniciada abr-2026) | [PV Magazine México](https://www.pv-magazine-mexico.com/2026/04/28/inician-en-sinaloa-la-construccion-de-la-mayor-planta-de-metanol-ultrabajo-en-carbono-a-partir-de-hidrogeno-verde/) | 2026-07-10 |
+
+## LNG
+
+| Proyecto | Ubicación | Cliente/Dueño | EPC/Contratista | Fase | Fuente | Última actualización |
+|---|---|---|---|---|---|---|
+| Rio Grande LNG (Trenes 1-5) | Brownsville, Texas, EE.UU. | NextDecade Corporation | Bechtel | Construcción | [Bechtel](https://www.bechtel.com/press-releases/nextdecade-executes-epc-contract-with-bechtel-for-train-4-at-the-rio-grande-lng-facility/) | 2026-07-10 |
+| Port Arthur LNG Fase 2 | Port Arthur, Texas, EE.UU. | Sempra Infrastructure | Bechtel Energy Inc. | Construcción | [Bechtel](https://www.bechtel.com/press-releases/sempra-infrastructure-announces-epc-contract-with-bechtel-for-port-arthur-lng-phase-2/) | 2026-07-10 |
+| Woodside Louisiana LNG (ex-Driftwood) | Calcasieu Parish, Luisiana, EE.UU. | Woodside Energy Group | Bechtel | Construcción | [Woodside](https://www.woodside.com/what-we-do/growth-projects/woodside-louisiana-lng) | 2026-07-10 |
+| CP2 LNG Fase 2 | Cameron Parish, Luisiana, EE.UU. | Venture Global | Worley | Construcción/Ingeniería temprana | [Offshore Energy](https://www.offshore-energy.biz/venture-global-sheds-light-on-worleys-role-at-next-chapter-of-us-lng-project/) | 2026-07-10 |
+| Plaquemines LNG Fase 2 | Plaquemines Parish, Luisiana, EE.UU. | Venture Global | KBR / Zachry Group (KZJV) | Construcción | [Offshore Energy](https://www.offshore-energy.biz/kbr-zachry-to-work-on-ventures-plaquemines-lng/) | 2026-07-10 |
+| Golden Pass LNG (Trenes 1-3) | Sabine Pass, Texas, EE.UU. | Golden Pass LNG (ExxonMobil/QatarEnergy) | Chiyoda / McDermott (CB&I) / Zachry Group | Construcción | [LNG Prime](https://lngprime.com/contracts-and-tenders/golden-pass-lng-contractors-ink-revised-epc-deal-for-second-and-third-train/169104/) | 2026-07-10 |
+| Corpus Christi Stage 3 | Corpus Christi, Texas, EE.UU. | Cheniere Energy | Bechtel | Construcción (98%) | [LNG Prime](https://lngprime.com/americas/chenieres-corpus-christi-stage-3-project-98-percent-complete/190871/) | 2026-07-10 |
+| Delfin FLNG 1 | Golfo de México, costa afuera de Cameron Parish, Luisiana, EE.UU. | Delfin Midstream | Samsung Heavy Industries + Black & Veatch | Ingeniería/Construcción temprana | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/06/03/3306350/0/en/delfin-midstream-announces-5-billion-final-investment-decision-for-first-flng-vessel.html) | 2026-07-10 |
+| Saguaro Energía LNG + gasoducto Sierra Madre/Saguaro Connector | Puerto Libertad, Sonora, México | Mexico Pacific Limited | Techint (obras tempranas); GDI Sicim Pipelines/Bonatti (gasoducto); EPC planta no especificado | Ingeniería/Pre-FID con retrasos | [IEEFA](https://ieefa.org/resources/mexico-pacific-limited-delays-turmoil-and-permitting-errors-have-stymied-mexicos-largest) | 2026-07-10 |
+| Altamira FLNG Train 2 | Altamira, Tamaulipas, México | New Fortress Energy | No especificado | Construcción | [GEM Wiki](https://www.gem.wiki/New_Fortress_Altamira_FLNG_Terminal) | 2026-07-10 |
+
+> Nota: Vista Pacífico LNG (Sempra/CFE, Topolobampo) fue cancelado en dic-2025 — no incluido.
+
+## Mining
+
+| Proyecto | Ubicación | Cliente/Dueño | EPC/Contratista | Fase | Fuente | Última actualización |
+|---|---|---|---|---|---|---|
+| Santa Cruz Copper Project | Casa Grande, Arizona, EE.UU. | Ivanhoe Electric Inc. | Fluor Corporation | Ingeniería completada / construcción prevista H1 2026 | [Mining Weekly](https://www.miningweekly.com/article/ivanhoe-electric-pencils-in-2026-construction-start-at-arizona-copper-mine-2025-06-25) | 2026-07-10 |
+| Copper World Complex | Pima County, Arizona, EE.UU. | Hudbay Minerals (70%) / Mitsubishi Corporation (30%) | Sundt, M3 Engineering, Ames, DRA Global, Knight Piésold, Mipac, Stantec | Ingeniería/Feasibility (DFS medio 2026) | [PR Newswire](https://www.prnewswire.com/news-releases/hudbay-selects-local-firms-to-advance-copper-world-feasibility-study-302478312.html) | 2026-07-10 |
+| Resolution Copper (Shaft No. 9) | Superior, Arizona, EE.UU. | Rio Tinto (55%) / BHP (45%) JV | Hatch | Ingeniería temprana post intercambio de tierras (marzo 2026) | [SEC](https://www.sec.gov/Archives/edgar/data/863064/000086306426000019/ex12d16mr_resolutionland.htm) | 2026-07-10 |
+| Thacker Pass Lithium Mine (Fase I) | Humboldt County, Nevada, EE.UU. | Lithium Americas Corp. | Bechtel | Construcción (10-20% avance) | [Nevada Appeal](https://www.nevadaappeal.com/news/2026/mar/26/lithium-americas-900-construction-workers-at-thacker-pass-mine/) | 2026-07-10 |
+| San Nicolás Copper-Zinc Project | Zacatecas, México | Teck Resources / Agnico Eagle Mines (JV 50/50) | No especificado | Construcción, producción esperada 2026 | [Mining.com](https://www.mining.com/teck-agnico-team-up-at-san-nicolas-copper-project-in-mexico/) | 2026-07-10 |
+| El Arco Copper Project | Baja California, México | Grupo México / Southern Copper Corporation | No especificado | Ingeniería de detalle | [Energy Magazine MX](https://energymagazine.mx/2025/10/grupo-mexico-espera-autorizacion-federal-para-continuar-proyectos-mineros-por-10-mil-200-mdd/) | 2026-07-10 |
+| El Pilar Copper Project | Sonora, México | Grupo México | No especificado | Ingeniería básica completada / trámite ambiental | [Mexico Mining Center](https://www.mexicominingcenter.com/grupo-mexico-compra-mina-el-pilar/) | 2026-07-10 |
+| Buenavista del Cobre — Concentradora No. 2 | Cananea, Sonora, México | Southern Copper Corporation (Grupo México) | M3 Engineering & Technology Corporation | Ingeniería/ejecución de expansión | [M3 Engineering](https://m3eng.com/portfolio/buenavista-del-cobre-concentradora-no-2/) | 2026-07-10 |
+| Media Luna Mine (North/EPO) | Guerrero, México | Torex Gold Resources Inc. | No especificado | Construcción (tubería de pasta pendiente) | [Minería en Línea](https://mineriaenlinea.com/2026/04/torex-gold-alcanza-velocidad-de-crucero-en-media-luna-9-meses-adelante-de-cronograma/) | 2026-07-10 |
+| Pumpkin Hollow Copper Mine (reinicio) | Yerington, Nevada, EE.UU. | Nevada Copper Corp. (Kinterra Capital) | No especificado | Planeación de reinicio/construcción | [Mining.com](https://www.mining.com/nevada-copper-unveils-restart-and-financing-plan-for-pumpkin-hollow/) | 2026-07-10 |
+
+## Data Centers
+
+| Proyecto | Ubicación | Cliente/Dueño | EPC/Contratista | Fase | Fuente | Última actualización |
+|---|---|---|---|---|---|---|
+| Stargate Frontier Campus | Shackelford County, Texas, EE.UU. | OpenAI / Oracle / SoftBank | Vantage Data Centers | Construcción | [DCD](https://www.datacenterdynamics.com/en/news/vantage-breaks-ground-on-texas-gigawatt-data-center-campus-for-openai/) | 2026-07-10 |
+| Stargate Milam County (fast-build) | Milam County, Texas, EE.UU. | OpenAI / Oracle | SB Energy (SoftBank) | Construcción | [Epoch AI](https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand) | 2026-07-10 |
+| Stargate Abilene Campus | Abilene, Texas, EE.UU. | OpenAI / Oracle | Crusoe / DPR Construction | Construcción | [DCD](https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/) | 2026-07-10 |
+| Microsoft Pecos Data Center Campus | Pecos/Reeves County, Texas, EE.UU. | Microsoft | No especificado (planta de gas: Chevron/Energy Forge One) | Ingeniería/FEED temprana | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos/) | 2026-07-10 |
+| CloudHQ Querétaro (Campus Colón) | Colón, Querétaro, México | CloudHQ | No especificado | Licitación/permisos finales | [DCD](https://www.datacenterdynamics.com/en/news/mexicos-queretaro-state-approves-trust-for-4bn-cloudhq-data-center/) | 2026-07-10 |
+| Meta Hyperion Data Center | Richland Parish, Luisiana, EE.UU. | Meta Platforms | Turner Construction / DPR Construction / Mortenson | Construcción | [ENR](https://www.enr.com/articles/62766-27b-meta-data-center-pushes-louisiana-toward-massive-power-expansion) | 2026-07-10 |
+| Vantage Data Centers NV1 | Storey County, Nevada, EE.UU. | Vantage Data Centers | No especificado | Construcción | [Data Center Frontier](https://www.datacenterfrontier.com/site-selection/article/55305086/nv1-and-the-nevada-hyperscale-boom-vantage-data-centers-bets-3b-on-the-ai-future) | 2026-07-10 |
+| CloudBurst San Marcos Data Center I | San Marcos/New Braunfels, Texas, EE.UU. | CloudBurst Data Centers | Evolve (eVOLVE Data Center Solutions) | Construcción | [DCD](https://www.datacenterdynamics.com/en/news/cloudburst-breaks-ground-on-gigawatt-scale-data-center-campus-in-texas/) | 2026-07-10 |
+| Prometheus Hyperscale Dallas Campus | Kaufman County, Texas, EE.UU. | Prometheus Hyperscale | No especificado (socio energía: Engie) | Ingeniería/construcción temprana | [DCD](https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-details-plans-for-dallas-data-center-campus/) | 2026-07-10 |
+| GW Ranch Power Campus | Pecos County, Texas, EE.UU. | Pacifico Energy | No especificado | Permisos obtenidos/inicio construcción | [Business Wire](https://www.businesswire.com/news/home/20260126236053/en/Pacifico-Energy-Secures-7.65-GW-Power-Generation-Permit-for-GW-Ranch-Project) | 2026-07-10 |
+| Amazon Mattermeade Data Center Campus | Caroline/Spotsylvania County, Virginia, EE.UU. | Amazon (AWS) | No especificado | Construcción | [DCD](https://www.datacenterdynamics.com/en/news/amazon-looks-to-build-large-scale-data-center-campus-next-to-nuclear-plant-in-texas/) | 2026-07-10 |
